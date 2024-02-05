@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ConsolePrinterApp1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ex01/ImagesToChar/target/ConsolePrinterApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
