@@ -1,4 +1,4 @@
-package edu.school21.chat.models;
+Кpackage edu.school21.chat.models;
 
 import lombok.Getter;
 import lombok.Setter;
